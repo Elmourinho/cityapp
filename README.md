@@ -6,7 +6,7 @@ This is REST API for City List application
 
 Go to the root directory and run docker compose:
 ```sh
-docker-compose -f .\docker-compose.yml up -d
+docker-compose up -d
 ```
 Run project:
 ```sh
